@@ -1,4 +1,0 @@
-Hello,
-I am learning git.
-
-This is the update1.
